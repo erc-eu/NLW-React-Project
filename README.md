@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="React na Prática Logo" title="#ReactNaPratica" src=".github/logo.svg" width="250px" />
+    <img alt="React na Prática Logo" title="#ReactNaPratica" src="./pass-in-web/src/assets/nlw-unite-icon.svg" width="250px" />
 </h1>
 
 <h4 align="center"> 
